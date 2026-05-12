@@ -24,38 +24,10 @@ Reusable from the earliest stages of the research infrastructure's development.
 
 | Path | Description |
 |------|-------------|
-| `dmp/` | Data Management Plan document and associated resources |
-| `ontology/hydlab.ttl` | HYDLAB ontology — canonical Turtle source |
-| `ontology/hydlab.owl` | OWL/RDF XML serialisation — auto-generated |
-| `ontology/hydlab.jsonld` | JSON-LD serialisation — auto-generated |
-| `scripts/` | Python scripts for ontology conversion and documentation generation |
-| `docs/index.html` | Human-readable HTML documentation of the ontology |
+| `dmp/` | Data Management Plan document |
+| `README.md` | Overview of the repository and link to the HYDLAB ontology |
+| `LICENSE` | Creative Commons Attribution 4.0 International (CC BY 4.0) |
 
----
-
-## HYDLAB Ontology
-
-**Namespace:** `https://purl.org/hydlab/ns#`  
-**Prefix:** `hydlab:`  
-**Version:** `v1.0.0`  
-**Persistent Identifier:** [Zenodo DOI — to be added upon publication]
-
-HYDLAB is a domain-specific layered OWL ontology developed for the semantic 
-modelling of hydrogen research infrastructures. It was derived from the Piping 
-and Instrumentation Diagram (P&ID) of the hydrogen laboratory under development 
-at the institution, and aligns with the following external ontologies:
-
-| Prefix | Ontology | Used for |
-|--------|----------|----------|
-| `schema:` | Schema.org | Organization, ResearchOrganization |
-| `sosa:` | W3C SOSA | Sensor, observes, madeSampling |
-| `ssn-system:` | W3C SSN Systems | Frequency |
-| `emmo:` | EMMO | Device (Electrolyzer, ElectrochemicalDevice) |
-| `oeo:` | Open Energy Ontology | HydrogenPowerPlant |
-| `qudt:` | QUDT | ElectricPotentialDifference |
-| `om:` | Ontology of Units of Measure | hasUnit |
-| `dcterms:` | Dublin Core | isPartOf, metadata annotation |
-| `skos:` | SKOS | broadMatch, concept |
 
 ---
 
@@ -67,6 +39,16 @@ engagement with the laboratory's engineering consultants, and direct involvement
 with senior laboratory management. It follows the FAIR by design structure and 
 is intended to serve as a living document, to be updated as the hydrogen 
 laboratory evolves.
+
+---
+
+## HYDLAB Ontology
+
+The ontology developed in the context of this thesis is maintained in a 
+dedicated repository:
+
+**HYDLAB Repository:** https://github.com/smriti1002/hydlab  
+**Persistent Identifier:** [Zenodo DOI — to be added upon publication]
 
 ---
 
