@@ -67,10 +67,8 @@ changes made are indicated.
 
 If you use or build upon the contents of this repository, please cite:
 
-[Your Name]. (2026). *FAIR by Design data modeling for
-Hydrogen Research 
-
-Infrastructures*. Area Science Park
+Smritirekha Talukdar. Mariarita de Luca (2026). *FAIR by Design data modeling for
+Hydrogen Research Infrastructures*. Area Science Park
 DOI: [Zenodo DOI — to be added upon publication]
 
 ---
