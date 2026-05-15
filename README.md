@@ -1,18 +1,14 @@
 # MDMC-thesis-2025-26-Talukdar
 This repository consists the work related to the partial fulfillment of the completion for the course of MDMC 2025-26
 
-# Thesis Repository — FAIR-by-design data modeling for Hydrogen Research Infrastructures
+# Thesis Repository — Semantic data modeling for interoperable hydrogen research infrastructures
 
 ## Overview
 
 This repository contains the research outputs produced in the context of the 
-thesis titled *"FAIR-by-design data modeling for hydrogen research infrastructures"*
+thesis titled *"Semantic data modeling for interoperable hydrogen research infrastructures"*
 developed at Area Science Park
-that includes
-the Data Management Plan (DMP) 
-drafted for the hydrogen laboratory under development, as well as the HydLab
-ontology — a hierarchical domain-specific OWL ontology for the semantic modelling 
-of hydrogen research infrastructures.
+that includes the Data Management Plan (DMP) drafted for the hydrogen laboratory under development, as well as the HydLab ontology — a hierarchical domain-specific OWL ontology for the semantic modeling of hydrogen research infrastructures.
 
 Both outputs were developed following a FAIR by design approach, ensuring that 
 all research data and metadata are Findable, Accessible, Interoperable, and 
