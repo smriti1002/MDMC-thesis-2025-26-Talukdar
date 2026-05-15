@@ -14,6 +14,8 @@ Both outputs were developed following a FAIR by design approach, ensuring that
 all research data and metadata are Findable, Accessible, Interoperable, and 
 Reusable from the earliest stages of the research infrastructure's development.
 
+The data pipeline explained in the DMP and the future perspective of this work can follow the work https://github.com/Nkana-valentin/Simulation-Hydrogen-Kafka-Pipeline/tree/new_architecture
+
 ---
 
 ## Repository Structure
