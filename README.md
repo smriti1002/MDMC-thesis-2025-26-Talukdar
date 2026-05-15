@@ -48,7 +48,7 @@ The ontology developed in the context of this thesis is maintained in a
 dedicated repository:
 
 **HYDLAB Repository:** https://github.com/smriti1002/hydlab  
-**Persistent Identifier:** [Zenodo DOI — to be added upon publication]
+**Persistent Identifier:** [zenodo](https://doi.org/10.5281/zenodo.20202095)
 
 ---
 
