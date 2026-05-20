@@ -22,7 +22,7 @@ The data pipeline explained in the DMP and the future perspective of this work c
 
 | Path | Description |
 |------|-------------|
-| `dmp/` | Data Management Plan document |
+| `DMP_H2SmartLab 1.0.md` | Data Management Plan document |
 | `README.md` | Overview of the repository and link to the HYDLAB ontology |
 | `LICENSE` | Creative Commons Attribution 4.0 International (CC BY 4.0) |
 
