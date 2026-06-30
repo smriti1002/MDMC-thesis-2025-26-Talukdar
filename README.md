@@ -65,8 +65,7 @@ changes made are indicated.
 
 If you use or build upon the contents of this repository, please cite:
 
-Smritirekha Talukdar. Mariarita de Luca (2026). *FAIR by Design data modeling for
-Hydrogen Research Infrastructures*. Area Science Park
+Smritirekha Talukdar. Mariarita de Luca (2026). *Semantic data modeling for interoperable hydrogen research infrastructures*. Area Science Park
 DOI: [Zenodo DOI — to be added upon publication]
 
 ---
